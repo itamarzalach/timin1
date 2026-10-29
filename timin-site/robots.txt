@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://timin1-1.onrender.com/sitemap.xml
